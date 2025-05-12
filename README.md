@@ -1,6 +1,6 @@
 # PIZZASALES-USING-SQL
 hello 
-i have done a Pizza Sales project using SQL where i have done the following
+i have done a Pizza Sales project using SQL where i have done the following.I am uploading the datasets required for this project.You can also practice
 
 Retrieve the total number of orders placed
 
